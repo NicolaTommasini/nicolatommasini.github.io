@@ -3,6 +3,9 @@ title: Nicola Tommasini Blog
 ---
 
 Welcome to my Blog 
-# Titolo 1 
+# Math \
 
-- [Algebra Lineare](/html/linear_algebra/linear_algebra_main.md)
+- [Algebra Lineare](/html/linear_algebra/linear_algebra_main.md) \
+
+# Stochastic Calculus \
+# Data Science \
