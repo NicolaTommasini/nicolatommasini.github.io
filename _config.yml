@@ -4,6 +4,5 @@ title: Blog # title to appear in nav bar and page meta
 description: Math,AI,CS,Games and more... # Displays as site description meta tag for site
 author : Nicola Tommasini
 copyright : "2022"
-header_pages:
-  - /index.md
+
 
