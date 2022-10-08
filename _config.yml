@@ -2,19 +2,16 @@ theme: minima
 name: Nicola
 title: Nicola Tommasini # title to appear in nav bar and page meta
 description: Math,AI,CS,Games and more... # Displays as site description meta tag for site
-author : Nicola Tommasini
+author : 
 copyright : "2022"
 
-###############################################
-# --- List of links in the navigation bar --- #
-###############################################
+social-network-links:
+  email: "someone@example.com"
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
 
-navbar-links:
-  About Me: "/index.md"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 
 
