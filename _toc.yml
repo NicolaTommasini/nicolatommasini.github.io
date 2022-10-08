@@ -4,7 +4,7 @@
 
 - part: Data Science
   chapters:
-  - file: html/linear_algebra.md/
+  - file: html/linear_algebra.md
     sections: 
-      - file: html/linear_algebra.md/
+      - file: html/linear_algebra.md
 
