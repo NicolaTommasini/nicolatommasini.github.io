@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+- file: 
+
+- part: Data Science
+  chapters:
+  - file: html/linear_algebra.md/
+    sections: 
+      - file: html/linear_algebra.md/
+
