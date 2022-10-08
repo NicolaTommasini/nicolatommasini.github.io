@@ -3,7 +3,7 @@ title: Nicola Tommasini Blog
 ---
 
 Welcome to my Blog 
-# Math /
+# Math \
 
 - [Algebra Lineare](/html/linear_algebra/linear_algebra_main.md) /
 
