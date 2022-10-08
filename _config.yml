@@ -1,11 +1,5 @@
 theme: minima
 name: Nicola's site
-use_logo: true
-# logo image to use. logo images are constrained at 50px in height.
-logo: assets/logo.png
 title: Blog # title to appear in nav bar and page meta
 description: Math,AI,CS,Games and more... # Displays as site description meta tag for site
-author :
-      name : Nicola Tommasini
-      email : n.tommasini18@gmail.com
-      github : NicolaTommasini
+author : Nicola Tommasini
