@@ -2,5 +2,5 @@
 \
 List of chapter:
 \
--[Vector](\html\linear_algebra\vector)
+-[Vector](\html\linear_algebra\vector) \
 -[Space](\html\linear_algebra\space)
