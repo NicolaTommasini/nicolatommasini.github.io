@@ -5,6 +5,7 @@ author :
 description: Math,AI,CS,Games and more... # Displays as site description meta tag for site
 theme: minima
 name: Nicola
+header_pages: -/html/linear_algebra/linear_algebra_main.md
 
 show_excerpts: false # set to true to show excerpts on the homepage
 social_links:
