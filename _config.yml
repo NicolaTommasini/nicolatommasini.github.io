@@ -1,7 +1,7 @@
 title: DS # title to appear in nav bar and page meta
 author :  
    name: NicolaTommasini
-  email: n.tommasini18@gmail.com
+   email: n.tommasini18@gmail.com
 description: Math,AI,CS,Games and more... # Displays as site description meta tag for site
 theme: minima
 name: Nicola
