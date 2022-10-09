@@ -2,27 +2,15 @@ theme: minima
 name: Nicola
 title:  # title to appear in nav bar and page meta
 description: Math,AI,CS,Games and more... # Displays as site description meta tag for site
-author : 
-copyright : "2022"
-menu: main
+author :  
+    name: NicolaTommasini
+    email: n.tommasini18@gmail.com
+
+show_excerpts: false # set to true to show excerpts on the homepage
 social_links:
     twitter: (https://twitter.com/home)
     github:  jekyll
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-    # google_scholar_id: qc6CJjYAAAAJ
+   
 share-links-active:
   twitter: true
   facebook: true
