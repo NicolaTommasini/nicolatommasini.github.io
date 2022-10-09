@@ -5,9 +5,24 @@ description: Math,AI,CS,Games and more... # Displays as site description meta ta
 author : 
 copyright : "2022"
 menu: main
-
-social-network-links:
-  email: "someone@example.com"
+social_links:
+    twitter: (https://twitter.com/home)
+    github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+    # google_scholar_id: qc6CJjYAAAAJ
 share-links-active:
   twitter: true
   facebook: true
