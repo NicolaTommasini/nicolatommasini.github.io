@@ -1,10 +1,10 @@
+title: DS # title to appear in nav bar and page meta
+author :  
+   name: NicolaTommasini
+  email: n.tommasini18@gmail.com
+description: Math,AI,CS,Games and more... # Displays as site description meta tag for site
 theme: minima
 name: Nicola
-title:  # title to appear in nav bar and page meta
-description: Math,AI,CS,Games and more... # Displays as site description meta tag for site
-author :  
-    name: NicolaTommasini
-    email: n.tommasini18@gmail.com
 
 show_excerpts: false # set to true to show excerpts on the homepage
 social_links:
