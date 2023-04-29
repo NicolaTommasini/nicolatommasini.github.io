@@ -13,7 +13,7 @@ keywords: ['science', 'technology', 'math', 'computer science', 'cs', 'AI', 'ML'
 analytics:
   plausible:
     enabled: false
-    site_fqdn: 'your.site.fqdn'
+    site_fqdn: 'nicolatommasini.github.io'
     script_source: 'https://plausible.io/js/script.js'
 
 # Styling
